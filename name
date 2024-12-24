@@ -1,0 +1,6 @@
+ # update tuple
+ Thistuple = ("sowrov","sahan","abir","sayed")
+ a=list(Thistuple)
+ a.append("mahmud")
+ Thistuple=tuple(a)
+ print(Thistuple)
